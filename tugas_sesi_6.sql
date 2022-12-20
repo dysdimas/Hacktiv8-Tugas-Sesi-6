@@ -33,6 +33,6 @@ CREATE TABLE `users`  (
 -- ----------------------------
 -- Records of users
 -- ----------------------------
-INSERT INTO `users` VALUES (1, 'dimas.sugara@bankneo.co.id', 'Dimas', 'Yogi Sugara', '$2a$10$nQdgKxu2MrqqLyhe6ZwPIuAfV7FJzej2.NF/MpYXgjkviD2T9NSwa');
+INSERT INTO `users` VALUES (1, 'dimas.sugara@gmail.com', 'Dimas', 'Yogi Sugara', '$2a$10$nQdgKxu2MrqqLyhe6ZwPIuAfV7FJzej2.NF/MpYXgjkviD2T9NSwa');
 
 SET FOREIGN_KEY_CHECKS = 1;
